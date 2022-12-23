@@ -67,7 +67,7 @@ When a nounce is used multiple times with the same key, this produces identical 
 
 ### (c) Approximately how many messages can Alice expect to send before the same key stream will be used twice?
 
-In this case , the keystream depends merely on the vale of ``v`` , so , ``2 ^ (80/2) = 2 ^ 40```
+In this case , the keystream depends merely on the vale of ``v`` , so , ``2 ^ (80/2) = 2 ^ 40``
 
 
 ### (e) How many messages should Alice use the key k, before generating another?
